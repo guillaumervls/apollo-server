@@ -39,6 +39,7 @@ module.exports = {
             'federation/introduction',
             'federation/concerns',
             'federation/core-concepts',
+            'federation/value-types',
             'federation/implementing',
             'federation/advanced-features',
             'federation/errors',
